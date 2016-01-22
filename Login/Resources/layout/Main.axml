@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#3f3f3f">
+    <com.facebook.login.widget.LoginButton
+        android:id="@+id/login_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="30dp" />
+    <com.facebook.login.widget.ProfilePictureView
+        android:id="@+id/profilePic"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center_horizontal" />
+    <TextView
+        android:id="@+id/txtFirstName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="First Name"
+        android:textColor="#fbfbfb"
+        android:textSize="18sp"
+        android:layout_gravity="center_horizontal"
+        android:padding="5dp"
+        android:visibility="invisible" />
+    <TextView
+        android:id="@+id/txtLastName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Last Name"
+        android:textColor="#fbfbfb"
+        android:textSize="18sp"
+        android:layout_gravity="center_horizontal"
+        android:padding="5dp"
+        android:visibility="invisible" />
+<!--<TextView
+      android:id="@+id/txtName"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="Name"
+      android:textColor="#fbfbfb"
+      android:textSize="18sp"
+      android:layout_gravity="center_horizontal"
+      android:padding="5dp" />
+  -->
+    <Button
+        android:id="@+id/btnKontynuacja"
+        android:layout_width="209.5dp"
+        android:layout_height="wrap_content"
+        android:text="Tak to ja. Kontynuuj"
+        android:textColor="#fbfbfb"
+        android:background="#666666"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center_horizontal" />
+</LinearLayout>

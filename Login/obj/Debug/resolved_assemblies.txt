@@ -1,0 +1,14 @@
+C:\Users\Poli\Documents\Visual Studio 2015\Projects\Login\Login\obj\Debug\assemblies\Login.dll
+C:\Users\Poli\Documents\Visual Studio 2015\Projects\Login\Login\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\Poli\Documents\Visual Studio 2015\Projects\Login\Login\obj\Debug\assemblies\mscorlib.dll
+C:\Users\Poli\Documents\Visual Studio 2015\Projects\Login\Login\obj\Debug\assemblies\Newtonsoft.Json.dll
+C:\Users\Poli\Documents\Visual Studio 2015\Projects\Login\Login\obj\Debug\assemblies\System.Core.dll
+C:\Users\Poli\Documents\Visual Studio 2015\Projects\Login\Login\obj\Debug\assemblies\System.dll
+C:\Users\Poli\Documents\Visual Studio 2015\Projects\Login\Login\obj\Debug\assemblies\System.Xml.dll
+C:\Users\Poli\Documents\Visual Studio 2015\Projects\Login\Login\obj\Debug\assemblies\System.Xml.Linq.dll
+C:\Users\Poli\Documents\Visual Studio 2015\Projects\Login\Login\obj\Debug\assemblies\Xamarin.Android.Support.v13.dll
+C:\Users\Poli\Documents\Visual Studio 2015\Projects\Login\Login\obj\Debug\assemblies\Xamarin.Android.Support.v4.dll
+C:\Users\Poli\Documents\Visual Studio 2015\Projects\Login\Login\obj\Debug\assemblies\Xamarin.Bolts.dll
+C:\Users\Poli\Documents\Visual Studio 2015\Projects\Login\Login\obj\Debug\assemblies\Xamarin.Facebook.dll
+C:\Users\Poli\Documents\Visual Studio 2015\Projects\Login\Login\obj\Debug\assemblies\System.Runtime.Serialization.dll
+C:\Users\Poli\Documents\Visual Studio 2015\Projects\Login\Login\obj\Debug\assemblies\System.ServiceModel.Internals.dll

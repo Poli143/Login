@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>C:\Users\Poli\Documents\Visual Studio 2015\Projects\Login\Login\obj\Debug\__library_projects__\Xamarin.Bolts\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Poli\Documents\Visual Studio 2015\Projects\Login\Login\obj\Debug\__library_projects__\Xamarin.Facebook\library_project_imports\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>C:\Users\Poli\Documents\Visual Studio 2015\Projects\Login\Login\obj\Debug\__library_projects__\Xamarin.Bolts\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>C:\Users\Poli\Documents\Visual Studio 2015\Projects\Login\Login\obj\Debug\__library_projects__\Xamarin.Facebook\library_project_imports\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>C:\Users\Poli\Documents\Visual Studio 2015\Projects\Login\Login\obj\Debug\__library_projects__\Xamarin.Bolts.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Poli\Documents\Visual Studio 2015\Projects\Login\Login\obj\Debug\__library_projects__\Xamarin.Facebook.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

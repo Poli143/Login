@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <AdditionalAndroidResourcePaths>
+    <AdditionalAndroidResourcePath>C:\Users\Poli\AppData\Local\Xamarin\Android.Support.v13\23.0.1.3\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\Poli\AppData\Local\Xamarin\Android.Support.v4\23.0.1.3\embedded</AdditionalAndroidResourcePath>
+  </AdditionalAndroidResourcePaths>
+  <AdditionalJavaLibraryReferences>
+    <AdditionalJavaLibraryReference>C:\Users\Poli\AppData\Local\Xamarin\Android.Support.v13\23.0.1.3\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\Poli\AppData\Local\Xamarin\Android.Support.v13\23.0.1.3\embedded\libs\internal_impl-23.0.1.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\Poli\AppData\Local\Xamarin\Android.Support.v4\23.0.1.3\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\Poli\AppData\Local\Xamarin\Android.Support.v4\23.0.1.3\embedded\libs\internal_impl-23.0.1.jar</AdditionalJavaLibraryReference>
+  </AdditionalJavaLibraryReferences>
+  <AdditionalNativeLibraryReferences />
+</Paths>

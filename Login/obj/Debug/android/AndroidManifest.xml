@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="Login.Login" android:versionCode="1" android:versionName="1.0">
+  <uses-sdk android:minSdkVersion="15" android:targetSdkVersion="22" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <application android:label="Login" android:theme="@style/CustomActionBarTheme" android:name="mono.android.app.Application" android:allowBackup="true" android:debuggable="true">
+    <uses-premission android:name="android.premission.INTERNET" />
+    <uses-premission android:name="android.premission.WRITE_EXTERNAL_STORAGE" />
+    <meta-data android:name="com.facebook.sdk.ApplicationId" android:value="@string/facebook_app_id" />
+    <activity android:name="com.facebook.FacebookActivity" android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation" android:theme="@android:style/Theme.Translucent.NoTitleBar" android:label="@string/ApplicationName" />
+    <activity android:icon="@drawable/icon" android:label="Login" android:name="md533583cc845b761e36e0b683119bc5692.MainActivity" />
+    <activity android:label="pager_item" android:name="md533583cc845b761e36e0b683119bc5692.pager_item" />
+    <activity android:icon="@drawable/icon" android:label="przegladKategori" android:theme="@style/CustomActionBarTheme" android:name="md533583cc845b761e36e0b683119bc5692.przegladKategori" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="Login.Login.mono.MonoRuntimeProvider.__mono_init__" />
+    <!--suppress ExportedReceiver-->
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.Login.Login" />
+      </intent-filter>
+    </receiver>
+    <activity android:icon="@drawable/icon" android:label="Login" android:name="login.login.TrialSplashScreen" android:theme="@style/Mono.Android.Theme.Splash" android:noHistory="true">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:label="pager_item" android:name="login.login.TrialSplashScreen_" android:theme="@style/Mono.Android.Theme.Splash" android:noHistory="true">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:icon="@drawable/icon" android:label="przegladKategori" android:theme="@style/Mono.Android.Theme.Splash" android:name="login.login.TrialSplashScreen__" android:noHistory="true">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+  </application>
+</manifest>
